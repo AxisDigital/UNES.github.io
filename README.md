@@ -1,2 +1,4 @@
-# UNES.github.io
-site teste
+#UNES html
+
+Front-end fictício de um site de universidade com design estático.
+
